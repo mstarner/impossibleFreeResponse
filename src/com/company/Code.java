@@ -23,17 +23,13 @@ public class Code
     {
         return myCode;
     }
-    // precondition: p1 >= 0, p1 < p2
-// p2 <= myCode.length()
-// Replaces the characters in the code starting at
-// position p1 until position p2 - 1 inclusive with an X
+
     public void hide(int p1, int p2)
     {
-        Scanner input = new Scanner(System.in);
 
 
     }
-    // precondition: p1 >= 0, p1 < p2
+    //p1 >= 0, p1 < p2
 // p2 <= myCode.length()
 // Restores to their original values the characters in
 // the code starting at position p1 until position
